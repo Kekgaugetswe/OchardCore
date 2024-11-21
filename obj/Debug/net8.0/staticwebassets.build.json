@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "JimUn47Ghed8NItBw9+weZo+7NJohX5j4p79wzuH454=",
+  "Source": "OchardCore",
+  "BasePath": "_content/OchardCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OchardCore/wwwroot",
+      "Source": "OchardCore",
+      "ContentRoot": "/Users/kekgaugetswesebati/Development/Projects/Personal/OchardCore/wwwroot/",
+      "BasePath": "_content/OchardCore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/kekgaugetswesebati/Development/Projects/Personal/OchardCore/wwwroot/.placeholder",
+      "SourceId": "OchardCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kekgaugetswesebati/Development/Projects/Personal/OchardCore/wwwroot/",
+      "BasePath": "_content/OchardCore",
+      "RelativePath": ".placeholder",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.placeholder"
+    }
+  ]
+}
